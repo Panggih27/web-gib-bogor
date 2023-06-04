@@ -12,8 +12,6 @@ deployment:
     - /bin/cp event-details.html $DEPLOYPATH
     - /bin/cp events.html $DEPLOYPATH
     - /bin/cp gallery.html $DEPLOYPATH
-    - /bin/cp index2.html $DEPLOYPATH
-    - /bin/cp index3.html $DEPLOYPATH
     - /bin/cp metode_pembayaran.html $DEPLOYPATH
     - /bin/cp news-details.html $DEPLOYPATH
     - /bin/cp news.html $DEPLOYPATH
